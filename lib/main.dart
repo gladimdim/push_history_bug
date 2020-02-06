@@ -1,4 +1,3 @@
-import 'package:fluri/fluri.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/foundation.dart';
 import 'dart:js' as js;
